@@ -1,0 +1,16 @@
+br\com\trabalhoav2\repository\ClienteRepository.class
+br\com\trabalhoav2\service\ItemService.class
+br\com\trabalhoav2\repository\PessoaRepository.class
+br\com\trabalhoav2\entity\Pessoa.class
+br\com\trabalhoav2\service\FuncionarioService.class
+br\com\trabalhoav2\entity\Cliente.class
+br\com\trabalhoav2\service\VendaService.class
+br\com\trabalhoav2\config\Connect.class
+br\com\trabalhoav2\service\ClienteService.class
+br\com\trabalhoav2\entity\ItemVenda.class
+br\com\trabalhoav2\entity\Venda.class
+br\com\trabalhoav2\entity\Funcionario.class
+br\com\trabalhoav2\repository\ItemRepository.class
+br\com\trabalhoav2\entity\Item.class
+br\com\trabalhoav2\Main.class
+br\com\trabalhoav2\repository\FuncionarioRepository.class
